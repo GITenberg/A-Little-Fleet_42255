@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35523'
     url: http://www.gutenberg.org/2009/agents/35523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42255#A-Little-Fleet
 gutenberg_issued: '2013-03-04'
 gutenberg_type: Text
 identifiers:
